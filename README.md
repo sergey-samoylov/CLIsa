@@ -36,3 +36,15 @@ CLIsa's version v.01 can:
 + tell time in different cities
 
 + tell you how many days passed from certain day in the past (say your birthday)
+
++ and ... one more thing :-) 
+
+## CLIsa parsing
+
+CLIsa can get you answers for different questions if these answers are in Yandex service.
+
+Usually these are briefs on a subject that you might ask about. A few lines of text.
+
+For most of the time, that's exactly what you've been looking for.
+
+It is simple, quick and easy!
