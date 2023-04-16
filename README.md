@@ -50,3 +50,5 @@ Usually these are briefs on a subject that you might ask about. A few lines of t
 For most of the time, that's exactly what you've been looking for.
 
 It is simple, quick and easy!
+
+Consider giving a star, if you like CLIsa :-)
