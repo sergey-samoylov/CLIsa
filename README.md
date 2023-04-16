@@ -39,6 +39,8 @@ CLIsa's version v.01 can:
 
 + and ... one more thing :-) 
 
+![](https://github.com/sergey-samoylov/CLIsa/img/CLIsa.png)
+
 ## CLIsa parsing
 
 CLIsa can get you answers for different questions if these answers are in Yandex service.
