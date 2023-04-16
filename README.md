@@ -39,7 +39,7 @@ CLIsa's version v.01 can:
 
 + and ... one more thing :-) 
 
-![](https://github.com/sergey-samoylov/CLIsa/img/CLIsa.png)
+![CLIsa](img/CLIsa.png)
 
 ## CLIsa parsing
 
