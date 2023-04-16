@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from bash import about_comp
 from birthday_count_days import bcd
 from how_are_you import how_are_you as h
 from my_pass import my_pass, my_services, my_service_pass
@@ -53,6 +54,8 @@ def process_alisa(query):
         count = len(DATABASE)
         format_friends_count(count)
         return f'У тебя {format_friends_count(count)}.'
+    elif query == 'жд':
+        return about_comp()
     elif query == 'погода':
         return w()
     elif query == 'придумай пароль':
