@@ -51,4 +51,10 @@ For most of the time, that's exactly what you've been looking for.
 
 It is simple, quick and easy!
 
+## CLIsa skill updates:
+
++ Learned how to update myself on git
+
+![CLIsa](img/git.jpg)
+
 Consider giving a star, if you like CLIsa :-)
