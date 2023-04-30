@@ -9,5 +9,8 @@ def git3():
 def music():
     return os.system("music.sh")
 
+def news():
+    return os.system("news.sh")
+
 def tsr():
     return os.system("Taylor_Swift_RED.sh")

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from bash import about_comp, git3, music, tsr
+from bash import about_comp, git3, music, tsr, news
 from birthday_count_days import bcd
 from how_are_you import how_are_you as h
 from my_pass import my_pass, my_services, my_service_pass
@@ -58,6 +58,8 @@ def process_alisa(query):
         return about_comp()
     elif query == 'апдейт на гит':
         return git3()
+    elif query == 'новости':
+        return news()
     elif query == 'музыка':
         return music()
     elif query == 'включи тэйлор свифт':
