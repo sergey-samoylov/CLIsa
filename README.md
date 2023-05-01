@@ -54,6 +54,7 @@ It is simple, quick and easy!
 ## CLIsa skill updates:
 
 + Learned translation to Arabic, Armenian and many other
++ Translation text limit 500 chars. (They were too wordy, for short answers)
 + Got shadow initiation file clisa.py to run from terminal with just "Алиса,"
 + Learned how to update myself on git
 

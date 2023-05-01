@@ -37,7 +37,7 @@ def question2alisa(query):
     lst5 = [node.text() for node in html.css('.ExtendedText-Full')]
     if len(lst5) > 0:
         res = ' '.join([str(x) for x in lst5])
-        return res
+        return res[:500]
 
 
     # lst = lst1 if len(lst1) > 0 else lst2
