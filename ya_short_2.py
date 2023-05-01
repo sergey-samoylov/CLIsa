@@ -29,6 +29,17 @@ def question2alisa(query):
         res = ' '.join([str(x) for x in lst3])
         return res
 
+    lst4 = [node.text() for node in html.css('.Translate-OutputText')]
+    if len(lst4) > 0:
+        res = ' '.join([str(x) for x in lst4])
+        return res
+
+    lst5 = [node.text() for node in html.css('.ExtendedText-Full')]
+    if len(lst5) > 0:
+        res = ' '.join([str(x) for x in lst5])
+        return res
+
+
     # lst = lst1 if len(lst1) > 0 else lst2
 
     # return print(*lst)
