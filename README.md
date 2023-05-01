@@ -53,6 +53,8 @@ It is simple, quick and easy!
 
 ## CLIsa skill updates:
 
++ Learned translation to Arabic, Armenian and many other
++ Got shadow initiation file clisa.py to run from terminal with just "Алиса,"
 + Learned how to update myself on git
 
 ![CLIsa](img/git.jpg)
