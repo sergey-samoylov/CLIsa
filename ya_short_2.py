@@ -1,4 +1,7 @@
+#!/usr/bin/env python3
+
 import httpx
+
 from selectolax.parser import HTMLParser
 
 def question2alisa(query):
